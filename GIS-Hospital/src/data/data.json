@@ -1,0 +1,433 @@
+[
+    {
+		"id": 1,
+		"name": "Assuta Hospital Rishon, Assuta Medical Centers",
+		"position":  [ 31.991970640132976, 34.772747349457809 ],
+		"city": "ראשון לציון",
+		"departments": ["יולדות" ,"עור","אונקולוגיה" ,"כירורגיה","אורתופדיה"],
+		"area": "מרכז",
+		"capacity": 100,
+		"website": "https://www.assuta.co.il/"
+},
+{
+		"id": 2,
+		"name": "Laniado Hospital",
+		"position":  [ 32.345306007972184, 34.856625512452666 ],
+		"city": "נתניה",
+		"departments": ["מיון","יולדות","אונקולוגיה" ,"כירורגיה","אורתופדיה"],
+		"area": "צפון",
+		"capacity": 50,
+		"website": "http://www.laniado.org.il/"
+
+},
+{
+	"id": 3,
+	"name": "Kaplan Medical Center",
+	"position":  [ 31.8729498,34.8120368 ],
+	"city": "רחובות",
+	"departments": ["יולדות" ,"עור","מיון","אונקולוגיה" ,"כירורגיה","אורתופדיה"],
+	"area": "מרכז",
+	"capacity": 70,
+	"website": "https://hospitals.clalit.co.il/kaplan/he/Pages/default.aspx"
+},
+{
+	"id": 4,
+	"name": "Hospital St. John's Eye",
+	"position":  [  31.7956613670043,35.231163837795748 ],
+	"city": "ירושלים",
+	"departments": ["עיניים"],
+	"area": "מרכז",
+	"capacity": 20,
+	"website": "https://www.stjohneyehospital.org/"
+},
+{
+	"id": 5,
+	"name": "Medical Center Assaf Harofeh , Tzrifin",
+	"position":  [  31.966107760247059 ,34.839000969088907],
+	"city": "ראשון לציון",
+	"departments": ["יולדות" ,"עור","מיון","עיניים" ,"כירורגיה","אורתופדיה"],
+	"area": "מרכז",
+	"capacity": 80,
+	"website": "https://www.shamir.org/he/about/"
+},
+{
+	"id": 6,
+	"name": "The Baruch Padeh Medical Center, Poriya",
+	"position":  [ 32.752244920613251,35.540544942049024 ],
+	"city": "טבריה",
+	"departments": ["יולדות" ,"מיון","עיניים","אורתופדיה"],
+	"area": "צפון",
+	"capacity": 20,
+	"website": "https://www.poria.health.gov.il/"
+},
+{
+	"id": 7,
+	"name": "Medical Center Hillel Yaffe",
+	"position":  [  32.45104355726852,34.895908703017874],
+	"city": "חדרה",
+	"departments": ["יולדות" ,"עיניים","מיון","אורתופדיה"],
+	"area": "צפון",
+	"capacity": 10,
+	"website": "https://hy.health.gov.il/"
+},
+{
+	"id": 8,
+	"name": "University Medical Center Barzilai",
+	"position":  [  31.662025961472057,34.559289391993005],
+	"city": " אשקלון",
+	"departments": ["יולדות" ,"עור","מיון","עיניים","אונקולוגיה" ,"כירורגיה","אורתופדיה"],
+	"area": "דרום",
+	"capacity": 30,
+	"website": "https://www.bmc.gov.il/"
+},
+{
+	"id": 9,
+	"name": "Ziv Medical Center, Safed",
+	"position":  [  32.954015914068577,35.49247943601457 ],
+	"city": "צפת",
+	"departments": ["יולדות" ,"עור","מיון","עיניים" ,"כירורגיה","אורתופדיה"],
+	"area": "צפון",
+	"capacity": 40,
+	"website": "https://www.gov.il/he/departments/ziv-medical-center/govil-landing-page"
+},
+{
+	"id": 10,
+	"name": "Rabin Medical Center , Campus Golda - Sharon",
+	"position":  [   32.079401711406419,34.881522834574525 ],
+	"city": "פתח תקווה",
+	"departments": ["יולדות" ,"עור","מיון","עיניים"],
+	"area": "מרכז",
+	"capacity": 60,
+	"website": "https://hospitals.clalit.co.il/rabin/he/Pages/default.aspx"
+},
+{
+	"id": 11,
+	"name": "Italian Hospital",
+	"position":  [   32.822968111310367,34.988490962468006 ],
+	"city": "חיפה",
+	"departments": ["אונקולוגיה" ,"כירורגיה","אורתופדיה"],
+	"area": "צפון",
+	"capacity": 10,
+	"website": "http://www.italianhosp-haifa.org/"
+},
+{
+	"id": 12,
+	"name": "Elisha Hospital",
+	"position":  [ 32.800836348382155 ,34.992355995235165],
+	"city": "חיפה",
+	"departments": ["יולדות" ,"עור","אורתופדיה","מיון"],
+	"area": "צפון",
+	"capacity": 40,
+	"website": "https://www.elishahospital.com/"
+},
+{
+	"id": 13,
+	"name": "Assuta Hospital Be'er Sheva, Assuta Medical Centers",
+	"position":  [  31.245589924526069,34.796546409352842 ],
+	"city": "באר שבע",
+	"departments": ["יולדות" ,"עור","אורתופדיה","מיון","אורתופדיה"],
+	"area": "דרום",
+	"capacity": 70,
+	"website": "https://www.assuta.co.il/hospitals/about_assuta_beersheva/"
+},
+{
+	"id": 14,
+	"name": "Hadassah University Hospital - Mount Scopus",
+	"position":  [  31.798310514388881,35.242216149874835 ],
+	"city": " ירושלים",
+	"departments": ["יולדות" ,"עור","מיון","עיניים","אורתופדיה","כירורגיה"],
+	"area": "מרכז",
+	"capacity": 75,
+	"website": "https://www.hadassah.org.il/hadassah_mount_scopus/"
+},
+{
+	"id": 15,
+	"name": "Central Valley Hospital",
+	"position":  [32.621905117833393, 35.317324285906466 ],
+	"city": "עפולה",
+	"departments": ["יולדות" ,"עור","מיון","כירורגיה"],
+	"area": "צפון",
+	"capacity": 60,
+	"website": "https://hospitals.clalit.co.il/emek/he/Pages/default.aspx"
+},
+{
+	"id": 16,
+	"name": "Shaare Zedek Hospital",
+	"position":  [ 31.7738561 , 35.1825358],
+	"city": "ירושלים",
+	"departments": ["יולדות" ,"עור","אורתופדיה","אונקולוגיה","כירורגיה"],
+	"area": "מרכז",
+	"capacity": 55,
+	"website": "https://www.szmc.org.il/heb/home/"
+},
+{
+	"id": 17,
+	"name": "M.r.b Medical Center 1996 Ltd",
+	"position":  [   32.027833,34.748296 ],
+	"city": "בת ים ",
+	"departments": ["שיניים"],
+	"area": "מרכז",
+	"capacity": 90,
+	"website": "https://www.clalit.co.il/he/sefersherut/pages/clinicdetails.aspx?ddeptcode=865159"
+},
+{
+	"id": 18,
+	"name": "Soroka, University Medical Center",
+	"position":  [  31.258193492961894,34.800929851681303 ],
+	"city": "באר שבע",
+	"departments": ["יולדות" ,"עור","אורתופדיה","מיון","אונקולוגיה","כירורגיה"],
+	"area": "דרום",
+	"capacity": 80,
+	"website": "https://hospitals.clalit.co.il/soroka/he/Pages/default.aspx"
+},
+{
+	"id": 19,
+	"name": "Horev Medical Center",
+	"position":  [  32.784701970923692,34.987152312949704 ],
+	"city": "חיפה",
+	"departments": ["שיניים" ,"כירורגיה"],
+	"area": "צפון",
+	"capacity": 35,
+	"website": "https://horevmedical.uz/"
+},
+{
+	"id": 20,
+	"name": "Galil Medical Center",
+	"position":  [  33.010013189414451 ,35.11692382847454 ],
+	"city": "נהריה",
+	"departments": ["יולדות" ,"מיון","כירורגיה"],
+	"area": "צפון",
+	"capacity": 45,
+	"website": "https://www.gmc.org.il/?CategoryID=655"
+},
+{
+	"id": 21,
+	"name": "Rambam Medical Center",
+	"position":  [ 32.832734280202075 , 34.985495719038411],
+	"city": "חיפה",
+	"departments": ["יולדות" ,"מיון","כירורגיה","אורתופדיה","אונקולוגיה","שיניים","עיניים"],
+	"area": "צפון",
+	"capacity": 60,
+	"website": "https://www.rambam.org.il/"
+},
+{
+	"id": 22,
+	"name": "Red Crescent Hospital",
+	"position":  [   31.785825755331587, 35.241062665329373 ],
+	"city": "ירושלים",
+	"departments": ["יולדות" ,"מיון","כירורגיה"],
+	"area": "מרכז",
+	"capacity": 95,
+	"website": "http://www.rcsh-jerusalem.org/en/"
+},
+{
+	"id": 23,
+	"name": "Tel Aviv Sourasky Medical Center",
+	"position":  [ 32.08038544107589,34.790157357896582 ],
+	"city": "תל אביב",
+	"departments": ["יולדות" ,"מיון","כירורגיה","עור","עיניים","שיניים","אורתופדיה","אונקולוגיה"],
+	"area": "מרכז",
+	"capacity": 75,
+	"website": "https://www.tasmc.org.il/Pages/default.aspx"
+},
+{
+	"id": 24,
+	"name": "Nazareth Hospital EMMS",
+	"position":  [32.702174494597365  ,35.292463651995632],
+	"city": "נצרת",
+	"departments": ["יולדות" ,"מיון","כירורגיה","אורתופדיה"],
+	"area": "צפון",
+	"capacity": 65,
+	"website": "https://www.nazhosp.com/?lang=he"
+},
+{
+	"id": 25,
+	"name": "Makassed hospital to Hiriyah Al Islamiya",
+	"position":  [ 31.780495091054707 ,35.245762004259468  ],
+	"city": "ירושלים",
+	"departments": ["יולדות" ,"מיון","כירורגיה"],
+	"area": "מרכז",
+	"capacity": 45,
+	"website": "https://almakassed.org/3725/?lang=en"
+},
+{
+	"id": 26,
+	"name": "French Hospital Saint Vincent de Paul",
+	"position":  [ 32.69912301763312 , 35.293920916028178],
+	"city": "נצרת",
+	"departments": ["יולדות" ,"מיון","עיניים"],
+	"area": "צפון",
+	"capacity": 35,
+	"website": "https://saint-vincent-hospital.org/"
+},
+{
+	"id": 27,
+	"name": "St. Joseph's Hospital",
+	"position":  [31.796048051561971 ,35.231871553413285 ],
+	"city": "ירושלים",
+	"departments": ["יולדות" ,"מיון","כירורגיה"],
+	"area": "מרכז",
+	"capacity": 45,
+	"website": "https://www.stjoseph.cc/"
+},
+{
+	"id": 28,
+	"name": "Medical Center Bnei Zion",
+	"position":  [32.806057570987733 , 34.992440455123116 ],
+	"city": "חיפה",
+	"departments": ["יולדות" ,"מיון","כירורגיה","עיניים","אורתופדיה"],
+	"area": "צפון",
+	"capacity": 65,
+	"website": "https://www.gov.il/he/departments/b-zion-health-center/govil-landing-page"
+},
+{
+	"id": 29,
+	"name": "Herzliya Medical Center",
+	"position":  [32.177361927067892,  34.80316909778351  ],
+	"city": "הרצליה",
+	"departments": ["אורתופדיה" ,"מיון","כירורגיה","עיניים"],
+	"area": "מרכז",
+	"capacity": 45,
+	"website": "https://hmc.co.il/"
+},
+{
+	"id": 30,
+	"name": "Wolfson Medical Center",
+	"position":  [32.034948424212985 ,34.762506408313804],
+	"city": "חולון",
+	"departments": ["יולדות" ,"מיון","אונקולוגיה"],
+	"area": "מרכז",
+	"capacity": 65,
+	"website": "https://www.gov.il/he/departments/wolfson/govil-landing-page"
+},
+{
+	"id": 31,
+	"name": "Schneider Children's Medical Center",
+	"position":  [ 32.088027415819205 , 34.867648189815235 ],
+	"city": "פתח תקווה",
+	"departments": ["יולדות" ,"מיון","כירורגיה","אורתופדיה","עיניים"],
+	"area": "מרכז",
+	"capacity": 70,
+	"website": "https://www.schneider.org.il/"
+},
+{
+	"id": 32,
+	"name": "The Augusta Victoria Hospital",
+	"position":  [ 31.786580650212365 ,35.249356494944664 ],
+	"city": "ירושלים",
+	"departments": ["מיון","כירורגיה","אונקולוגיה"],
+	"area": "מרכז",
+	"capacity": 65,
+	"website": "https://jerusalem.lutheranworld.org/content/augusta-victoria-hospital-91"
+},
+{
+	"id": 33,
+	"name": "Assuta Medical Centers",
+	"position":  [ 32.108097374209152,34.838889011511668],
+	"city": "תל אביב",
+	"departments": ["יולדות" ,"מיון","כירורגיה","אורתופדיה","עיניים"],
+	"area": "מרכז",
+	"capacity": 70,
+	"website": "https://www.assuta.co.il/hospitals/assuta_hashalom/"
+},
+{
+	"id": 34,
+	"name": "Assuta Hospital in Haifa, Assuta Medical Centers",
+	"position":  [  32.793710388948419,35.037874920268663 ],
+	"city": "חיפה",
+	"departments": ["יולדות" ,"מיון","כירורגיה","אורתופדיה","עיניים"],
+	"area": "צפון",
+	"capacity": 70,
+	"website": "https://www.assuta.co.il/hospitals/about_assuta_haifa/"
+},
+{
+	"id": 35,
+	"name": "Hadassah University Hospital - Ein Karem",
+	"position":  [  31.766064784233304,35.150013595872096 ],
+	"city": "ירושלים",
+	"departments": ["יולדות" ,"מיון","כירורגיה","אורתופדיה","עיניים","שיניים"],
+	"area": "מרכז",
+	"capacity": 80,
+	"website": "https://www.hadassah.org.il/"
+},
+{
+	"id": 36,
+	"name": "Holy Family Hospital",
+	"position":  [ 32.705405116842371,35.31073028719436],
+	"city": "בית לחם",
+	"departments": ["יולדות" ,"מיון","כירורגיה","אורתופדיה"],
+	"area": "צפון",
+	"capacity": 70,
+	"website": "https://holyfamilyhospital-bethlehem.org/hospital-services/"
+},
+{
+	"id": 37,
+	"name": "Ma'ayanei HaYeshua Hospital",
+	"position":  [  32.084801292397273,34.844307758250721 ],
+	"city": "בני ברק ",
+	"departments": ["יולדות" ,"מיון","כירורגיה","אורתופדיה","עיניים"],
+	"area": "מרכז",
+	"capacity": 95,
+	"website": "https://www.mymc.co.il/"
+},
+{
+	"id": 38,
+	"name": "Yoseftal Hospital",
+	"position":  [  29.554259635186721 ,34.940525915669156 ],
+	"city": "אילת ",
+	"departments": ["יולדות" ,"מיון","כירורגיה","אורתופדיה","עיניים","שיניים"],
+	"area": "דרום",
+	"capacity": 70,
+	"website": "https://hospitals.clalit.co.il/joseftal/he/Pages/default.aspx"
+},
+{
+	"id": 39,
+	"name": "Carmel Medical Center Lady Davis",
+	"position":  [  32.786612349426086,34.980312990978526 ],
+	"city": "חיפה",
+	"departments": ["מיון","כירורגיה"],
+	"area": "צפון",
+	"capacity": 70,
+	"website": "https://new.israelhealthcarefoundation.org/carmel/"
+},
+{
+	"id": 40,
+	"name": "Medical Center Dr. h . Sheba Medical Center , Tel Hashomer",
+	"position":  [  32.045808599438345,34.842373766750704 ],
+	"city": "תל השומר ",
+	"departments": ["יולדות" ,"מיון","כירורגיה","אורתופדיה","עיניים","אונקולוגיה","שיניים","עור"],
+	"area": "מרכז",
+	"capacity": 70,
+	"website": "https://www.sheba.co.il/"
+},
+{
+	"id": 41,
+	"name": "Meir Medical Center",
+	"position":  [  32.181373571199188 ,34.895492341865747],
+	"city": "כפר סבא ",
+	"departments": ["יולדות" ,"מיון","כירורגיה","אורתופדיה","עיניים","עור","אונקולוגיה","שיניים"],
+	"area": "צפון",
+	"capacity": 70,
+	"website": "https://hospitals.clalit.co.il/meir/he/Pages/default.aspx"
+},
+{
+	"id": 42,
+	"name": "Rabin Medical Center , Beilinson Campus",
+	"position":  [  32.090653043453337,34.866685959827038 ],
+	"city": "פתח תקווה",
+	"departments": ["יולדות" ,"מיון","כירורגיה","אורתופדיה","עיניים","אונקולוגיה"],
+	"area": "מרכז",
+	"capacity": 70,
+	"website": "https://hospitals.clalit.co.il/rabin/he/Pages/default.aspx"
+},
+{
+	"id": 43,
+	"name": "Al-Quds Hospital Maternity",
+	"position":  [  32.089014919071111 ,34.866767658599628],
+	"city": "ירושלים ",
+	"departments": ["יולדות" ,"מיון","כירורגיה","אורתופדיה","עיניים"],
+	"area": "מרכז",
+	"capacity": 30,
+	"website": "https://www.facebook.com/Jerusalem.maternity.hospital"
+}
+]
