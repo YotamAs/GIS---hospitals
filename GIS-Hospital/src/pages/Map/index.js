@@ -39,14 +39,14 @@ const Map = ({ sites, onClickSite }) => {
 								<span className="description">{site.description}</span>
 								{site.website && (
 									<span>
-										לאתר האנטרנט{' '}
+										Website: {' '}
 										<a href={site.website} target="_blank">
-											לחץ כאן
+											Click here
 										</a>
 									</span>
 								)}
 								<span className={capacityColor}>
-									תפוסה{' '}
+									Capacity{' '}
 									{site.capacity}%
 								</span>
 							</div>
